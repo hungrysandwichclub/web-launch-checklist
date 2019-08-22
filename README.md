@@ -6,7 +6,7 @@ A simple hitlist to make sure launch day goes smoothly. Good luck!
 
 # Housekeeping 🏚
 
-- [ ]  Client user accounts has been set up.
+- [ ]  Client user accounts have been set up.
 - [ ]  Timezone is set correctly.
 - [ ]  SSL Certificate has been set up.
 - [ ]  Favicon is showing.
