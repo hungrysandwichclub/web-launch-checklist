@@ -24,7 +24,7 @@ A simple hitlist to make sure launch day goes smoothly. Good luck!
 - [ ]  There is a constant visual style for buttons, links and UI elements.
 - [ ]  Contact Details are correct and working.
 - [ ]  A privacy policy in place if cookies are used or data is processed.
-- [ ]  Website is loading on all current desktop browsers  (Safari, Firefox, Chrome, IE11, EDGE) unless otherwise agreed with the client. - [https://browserstack.com](https://www.browserstack.com/)
+- [ ]  Website is loading on all current desktop browsers  (Safari, Firefox, Chrome, Edge) unless otherwise agreed with the client. - [https://browserstack.com](https://www.browserstack.com/)
 - [ ]   Design files have been compared to staging site for accuracy.
 
 
